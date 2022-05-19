@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Bebas+Neue&family=Dancing+Script&family=Lobster&family=Ms+Madi&family=Quantico&family=Roboto+Mono:wght@100&family=Tapestry&family=Updock&display=swap');
+#main{
+    background-image: url(./wp8744349-coffee-desktop-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    margin-left: -8px;
+    margin-top: -23px;
+    height: 574px;
+    width: 102%;
+}
+
+
+#cp{
+    color:white;
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    height: 41px;
+    
+}
+#sc{
+    color: white;
+    margin-left: 43px;
+    margin-top: -27px;
+}
+#logo{
+    margin-left: 213px;
+    margin-top: -69px;
+    height: 135px;
+    width: 12%;
+}
+#mainb{
+    height: 50px;
+    width: 41%;
+    
+    margin-left: 722px;
+    margin-top: -139px;
+}
+#h3{
+    color: white;
+    margin-left: 49px;
+}
+#h31{
+    color: white;
+    margin-left: 88px;
+    margin-top: -38px;
+}
+#h32{
+    color: white;
+    margin-left: 140px;
+    margin-top:-40px ;
+}
+#h33{
+    color: white;
+    margin-left: 182px;
+    margin-top: -39px;
+}
+#main2{
+    background-image: url(./wp3027065-coffee-desktop-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    margin-left: -8px;
+    margin-top: -90px;
+    height: 574px;
+    width: 102%;
+
+}
+#intro{
+    color:white;
+    margin-top: 90px;
+    margin-left: 2px;
+    
+
+}
+#smiley{
+    margin-left: 1px;
+    margin-top: -18px;
+    height: 206px;
+    width: 23%;
+    border-radius: 30px;
+}
+#rdmr{
+    margin-left: 467px;
+    margin-top: -234px;
+    height: 32px;
+    width: 6%;
+    background-color: yellow;
+    border-radius: 9px;
+
+}
+#thought1{
+    border-radius: 92px;
+    color: white;
+    border: 6px solid;
+    height: 166px;
+    width: 61%;
+    margin-left: -705px;
+    margin-top: 202px;
+    border-color: orange;
+    
+    
+}
+#thought1:hover{
+    background-color: orangered;
+    color: black;
+    border-color: black;
+}
+
+#thought{
+    color: white;
+    margin-left: -695px;
+    margin-top: -122px;
+   
+}
+
+#specials{
+    background-image: url(./wp4717526-coffee-desktop-wallpapers.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: -8px;
+    margin-top: -19px;
+    height: 574px;
+    width: 102%;
+}
+#special1{
+    color: white;
+}
+#Gallery{
+    color: black;
+}
+#gl1{
+    margin-left: -8px;
+    margin-top: -19px;
+    height: 256px;
+    width: 31%;
+
+}
+#gl2{
+    margin-left: -5px;
+    margin-top: -19px;
+    height: 256px;
+    width: 31%;
+
+}
+#gl3{
+    margin-left: -5px;
+    margin-top: -19px;
+    height: 256px;
+    width: 38%;
+
+}
+#gl4{
+    margin-left: -8px;
+    margin-top: -2px;
+    height: 256px;
+    width: 38%;
+
+}
+#gl5{
+    margin-left: -8px;
+    margin-top: -2px;
+    height: 256px;
+    width: 38%;
+
+}
+#see{
+    margin-left: 955px;
+    margin-top: -163px;
+    height: 41px;
+    width: 18%;
+    border-radius: 20px;
+    color: black;
+    border-color: rgb(74, 74, 209);
+    border: 2px solid;
+}
+#see1{
+    color: blue;
+    margin-top: -34px;
+    margin-left: 985px;
+}
+#see:hover{
+    background-color: yellow;
+    color: white;
+}
+
+#dv1:hover{
+    background-color: black;
+    color: white;
+    border-color: white;   
+}
+
+#bg2{
+    background-image: url(./images/Coffe_bg2.jpg);
+    background-size: cover;
+    height: 100vh;
+    
+    
+}
+#genre{
+    
+    margin-top: 100px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+    
+    
+
+#item1{
+    border: 2px white solid;
+    height: 407px;
+    width: 250px;
+    margin-left: 4px;
+    margin-top: -100px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item1:hover{
+    background-color: black;
+    
+}
+#item2{
+    border: 2px white solid;
+    height: 411px;
+    width: 250px;
+    margin-left: 315px;
+    margin-top: -447px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+
+}
+#item2:hover{
+    background-color: black;
+}
+#item3{
+    border: 2px white solid;
+    height: 412px;
+    width: 250px;
+    margin-left: 621px;
+    margin-top: -455px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item3:hover{
+    background-color: black;
+}
+#item4{
+    border: 2px white solid;
+    height: 411px;
+    width: 250px;
+    margin-left: 926px;
+    margin-top: -455px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 20px;
+    color: white;
+}
+#item4:hover{
+    background-color: black;
+}
+#form{
+  background-color: black;  
+  height: 50px;
+}
+
+#frm{
+    background-color: rgb(72, 71, 71);
+    height: 392px;
+    width: 101%;
+    border: 5px solid;
+margin-left: -9px;
+margin-top: 122px;}
+#fb{
+    border: 2px white solid;
+    width: 303px;
+    height: 222px;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: -17px;
+}
+#ftr{
+    width: 100%;
+    height: 100%;
+}
+#ft{
+    text-align: center;
+    color: white;
+}
+#la{
+   color: white;
+}
+#q{
+    height: 18px;
+    width: 54%;
+    margin-left: 1px;
+}
+#b2{
+    background-color: rgb(46, 43, 43);
+    padding: 5px;
+    border: 3px white solid;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    margin-left: 165px;
+    margin-top: 30px;
+
+}
+#b2:hover{
+    background-color: white;
+    color: black;
+}
+#lastf{border: 2px white solid;
+    width: 558px;
+    height: 186px;
+    margin-left: 604px;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: -261px;
+    
+    color: white;
+    
+}
+#twitter{
+    
+    width: 338px;
+    height: 186px;
+    margin-left: 911px;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: -227px;
+    
+    color: white;
+}
+#tw1{
+    margin-left: 27px;
+}
+#tc{
+    margin-left: 35px;
+}
+.arjun{
+color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
